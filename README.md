@@ -10,6 +10,7 @@ Evaluate a shared learning experience across Android, iOS, and web, with Windows
 
 - [Flutter feasibility assessment](docs/flutter-feasibility.md)
 - [First vertical slice and decision gates](docs/first-vertical-slice.md)
+- [Gamified next-generation activities](docs/gamified-activities.md)
 
 ## Public repository boundaries
 
