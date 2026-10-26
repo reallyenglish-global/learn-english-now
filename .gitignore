@@ -1,0 +1,16 @@
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Dart / Flutter generated files
+.dart_tool/
+.flutter-plugins-dependencies
+build/
+coverage/
+
+# Local tooling
+.idea/
+.DS_Store
